@@ -12,4 +12,4 @@ Now we create a conflict
 
 Veranderingen lokaal.
 
-[Fruit](data/fruits.csv)
+[Fruit](data/fruit.csv)
