@@ -8,4 +8,6 @@ Nog iets erbij.
 
 We zullen het nog eens proberen.
 
-Now we create a conflict
+Now we create a conflict.
+
+Some simple additions.
