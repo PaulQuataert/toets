@@ -14,4 +14,4 @@ Veranderingen lokaal.
 
 [Fruit](data/fruit.csv)
 
-Ik wil hier toch liever wat meer uitleg
+ik wil toch liever wat meer uitleg
