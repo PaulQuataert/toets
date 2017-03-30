@@ -13,3 +13,5 @@ Now we create a conflict
 Veranderingen lokaal.
 
 [Fruit](data/fruit.csv)
+
+ik wil toch liever wat meer uitleg
